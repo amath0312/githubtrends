@@ -1,4 +1,5 @@
-﻿Flask
+﻿uwsgi
+Flask
 Flask-Email
 Flask-WTF
 Flask-SQLAlchemy
